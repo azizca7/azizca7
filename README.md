@@ -4,7 +4,7 @@
 ---
 
 💡 **Professional Highlights**  
-👨‍🏫 Najot Ta'lim bitiruvchisi, kuchli asos va amaliy tajriba  
+👨‍🏫 Najot Ta'lim bitiruvchisi  
 ⚛️ React/Next.js asosida samarali va tezkor ilovalar ishlab chiqish  
 🎨 UI/UX dizayn prinsiplariga asoslangan interfeyslar yaratish  
 📚 Doimiy o‘sish, zamonaviy texnologiyalarni o‘rganishga intilish  
