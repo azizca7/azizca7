@@ -6,16 +6,20 @@
 
 ---
 Professional Highlights: 
-- 🎓 **Najot Ta’lim** bitiruvchisi 
-🧑‍🏫 Mentor & Educator: Delivering engaging lessons on ReactJS, Redux, and Next.js, helping others achieve their goals. 
+- 🎓 **Najot Ta’lim** bitiruvchisi
+
+🧑‍🏫 Mentor & Educator: Delivering engaging lessons on ReactJS, Redux, and Next.js, helping others achieve their goals.
+
 ⚛️ React Enthusiast: Crafting scalable and maintainable interfaces. 
+
 🤖 AI Integrator: Exploring AI-driven solutions to enhance user interactivity. 
+
 🎨 UI/UX Advocate: Designing user-centric interfaces that make an impact. 
 ---
 
 ### 🧰 Tech Stack:
 
-<p clasname"center">
+<p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
