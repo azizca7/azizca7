@@ -7,14 +7,15 @@
 ---
 **Professional Highlights**: 
 - 🎓 **Najot Ta’lim** bitiruvchisi
-
+  
 🧑‍🏫 Mentor & Educator: Delivering engaging lessons on ReactJS, Redux, and Next.js, helping others achieve their goals.
 
-⚛️ React Enthusiast: Crafting scalable and maintainable interfaces. 
+⚛️ React Enthusiast: Crafting scalable and maintainable interfaces.
 
-🤖 AI Integrator: Exploring AI-driven solutions to enhance user interactivity. 
+🤖 AI Integrator: Exploring AI-driven solutions to enhance user interactivity.
 
-🎨 UI/UX Advocate: Designing user-centric interfaces that make an impact. 
+🎨 UI/UX Advocate: Designing user-centric interfaces that make an impact.
+
 ---
 
 ### 🧰 Tech Stack:
