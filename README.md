@@ -6,10 +6,10 @@
 
 ---
 
-### 🌟Professional Highlights:
+###  🌟Professional Highlights:
 
 - 🎓 **Najot Ta’lim** bitiruvchisi
-- 
+
 🧑‍🏫 Mentor & Educator: Delivering engaging lessons on ReactJS, Redux, and Next.js, helping others achieve their goals.
 
 ⚛️ React Enthusiast: Crafting scalable and maintainable interfaces.
