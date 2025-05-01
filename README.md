@@ -9,10 +9,10 @@
 ### 🌟Professional Highlights:
 
 - 🎓 **Najot Ta’lim** bitiruvchisi
-- ⚛️ **React / Next.js** asosida samarali ilovalar ishlab chiqaman
-- 🎨 UI/UX dizayn prinsiplariga katta e’tibor beraman
-- 🚀 Doimiy o‘sishga intilaman, yangi texnologiyalarni tez o‘zlashtiraman
-- 🤝 Jamoa bilan ishlashda mas’uliyatli, halol va aniq yondashuvni afzal ko‘raman
+🧑‍🏫 Mentor & Educator: Delivering engaging lessons on ReactJS, Redux, and Next.js, helping others achieve their goals.
+⚛️ React Enthusiast: Crafting scalable and maintainable interfaces.
+🤖 AI Integrator: Exploring AI-driven solutions to enhance user interactivity.
+🎨 UI/UX Advocate: Designing user-centric interfaces that make an impact.
 
 ---
 
@@ -35,8 +35,8 @@
 ### 🌐 Socials:
 
 <p align="center">
-  <a href="https://t.me/your_username"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://t.me/diplomat_4100"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="mailto:your_email@ikromovazizbek256@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
