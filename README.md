@@ -1,4 +1,3 @@
-<!-- Banner yoki GIF bo'lsa, shu yerga qo'yish mumkin -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Aziz+👋;Frontend+Developer+from+Uzbekistan;React,+Next.js,+TypeScript+lover!&center=true&width=500&height=50">
 </p>
@@ -7,7 +6,7 @@
 
 ---
 
-### 🌟 Haqimda qisqacha:
+### 🌟Professional Highlights:
 
 - 🎓 **Najot Ta’lim** bitiruvchisi
 - ⚛️ **React / Next.js** asosida samarali ilovalar ishlab chiqaman
@@ -17,7 +16,7 @@
 
 ---
 
-### 🧰 Mening texnologiyalarim:
+### 🧰 Tech Stack:
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -33,7 +32,7 @@
 
 ---
 
-### 🌐 Ijtimoiy tarmoqlarim:
+### 🌐 Socials:
 
 <p align="center">
   <a href="https://t.me/your_username"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
@@ -43,7 +42,7 @@
 
 ---
 
-### 📊 GitHub statistikasi:
+### 📊 GitHub Stats:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=azizca7&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
@@ -52,7 +51,7 @@
 
 ---
 
-### 💬 Random Quote:
+### 💬 Random Dev Quote:
 
 > _"Every time you improve process, work becomes harder."_  
 > — Daniel T. Barry
