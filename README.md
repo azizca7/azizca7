@@ -8,8 +8,7 @@
 <h2>About me👋</h2>
 
 **Professional Highlights**: 
-- 🎓 **Najot Ta’lim** bitiruvchisi
-  
+ 🎓 **Najot Ta’lim** student
 🧑‍🏫 Mentor & Educator: Delivering engaging lessons on ReactJS, Redux, and Next.js, helping others achieve their goals.
 
 ⚛️ React Enthusiast: Crafting scalable and maintainable interfaces.
