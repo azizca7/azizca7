@@ -5,6 +5,8 @@
 <h2 align="center">💻 Frontend Developer | React | Next.js | TypeScript</h2>
 
 ---
+<h2>About me👋</h2>
+
 **Professional Highlights**: 
 - 🎓 **Najot Ta’lim** bitiruvchisi
   
